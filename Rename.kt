@@ -2,10 +2,10 @@ import java.io.File
 
 fun main() {
     // Specify the folder path
-    val folderPath = "./celebrations/weddings"
+    val folderPath = "./celebrations/stickers"
 
     // Specify the new name prefix
-    val newNamePrefix = "celebrations_weddings_"
+    val newNamePrefix = "birthdays_stickers"
 
     // Access the folder
     val folder = File(folderPath)
