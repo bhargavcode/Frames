@@ -59,7 +59,7 @@ fun renameFiles(){
     val folderPath = "./celebrations/stickers"
 
     // Specify the new name prefix
-    val newNamePrefix = "birthdays_stickers_"
+    val newNamePrefix = "birthdays_sticker_"
 
     // Access the folder
     val folder = File(folderPath)
