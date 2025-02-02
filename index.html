@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Categories JSON</title>
+    <style>
+        /* Simple styling for the page */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 10px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            margin-bottom: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Update Categories JSON</h2>
+<div id="categoriesTable"></div>
+<button onclick="updateJson()">Update Changes</button>
+
+<script>
+    let jsonData = {};  // To store the fetched JSON data
+
+    // Function to fetch JSON data from URL
+    async function fetchJsonData() {
+        const url = 'https://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/frames_category.json';  // Replace with your actual URL
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            jsonData = await response.json();
+            renderCategoriesTable();  // Render the table once data is fetched
+        } catch (error) {
+            console.error('Error fetching the JSON:', error);
+        }
+    }
+
+    // Function to render the categories table
+    function renderCategoriesTable() {
+        const categoriesTableDiv = document.getElementById("categoriesTable");
+        let html = "<table><thead><tr><th>Name</th><th>Position</th><th>Is Available</th><th>Actions</th></tr></thead><tbody>";
+
+        jsonData.categories.forEach((category, categoryIndex) => {
+            html += `
+                <tr>
+                    <td>${category.name}</td>
+                    <td>
+                        <button onclick="changePosition('up', ${categoryIndex})">++</button>
+                        ${category.position}
+                        <button onclick="changePosition('down', ${categoryIndex})">--</button>
+                    </td>
+                    <td><input type="checkbox" ${category.isAvailable ? "checked" : ""} onchange="toggleAvailability(${categoryIndex})"></td>
+                    <td><button onclick="renderTypesTable(${categoryIndex})">Edit Types</button></td>
+                </tr>
+            `;
+        });
+        html += "</tbody></table>";
+        categoriesTableDiv.innerHTML = html;
+    }
+
+    // Change category position
+    function changePosition(direction, categoryIndex) {
+        const category = jsonData.categories[categoryIndex];
+        if (direction === 'up') category.position++;
+        if (direction === 'down' && category.position > 0) category.position--;
+        renderCategoriesTable();
+    }
+
+    // Toggle availability
+    function toggleAvailability(categoryIndex) {
+        const category = jsonData.categories[categoryIndex];
+        category.isAvailable = !category.isAvailable;
+    }
+
+    // Render types table (for frames and stickers)
+    function renderTypesTable(categoryIndex) {
+        const category = jsonData.categories[categoryIndex];
+        let html = "<h3>Types for " + category.name + "</h3><table><thead><tr><th>Name</th><th>Position</th><th>Is Available</th><th>Frames</th><th>Stickers</th></tr></thead><tbody>";
+
+        category.types.forEach((type, typeIndex) => {
+            html += `
+                <tr>
+                    <td>${type.name}</td>
+                    <td>
+                        <button onclick="changeTypePosition('up', ${categoryIndex}, ${typeIndex})">++</button>
+                        ${type.position}
+                        <button onclick="changeTypePosition('down', ${categoryIndex}, ${typeIndex})">--</button>
+                    </td>
+                    <td><input type="checkbox" ${type.isAvailable ? "checked" : ""} onchange="toggleTypeAvailability(${categoryIndex}, ${typeIndex})"></td>
+                    <td><button onclick="renderFramesAndStickers(${categoryIndex}, ${typeIndex})">Edit Frames</button></td>
+                </tr>
+            `;
+        });
+        html += "</tbody></table>";
+        document.getElementById("categoriesTable").innerHTML = html;
+    }
+
+    // Change type position
+    function changeTypePosition(direction, categoryIndex, typeIndex) {
+        const type = jsonData.categories[categoryIndex].types[typeIndex];
+        if (direction === 'up') type.position++;
+        if (direction === 'down' && type.position > 0) type.position--;
+        renderTypesTable(categoryIndex);
+    }
+
+    // Toggle type availability
+    function toggleTypeAvailability(categoryIndex, typeIndex) {
+        const type = jsonData.categories[categoryIndex].types[typeIndex];
+        type.isAvailable = !type.isAvailable;
+    }
+
+    // Render frames and stickers
+    function renderFramesAndStickers(categoryIndex, typeIndex) {
+        const type = jsonData.categories[categoryIndex].types[typeIndex];
+        let html = "<h3>Frames and Stickers for " + type.name + "</h3><table><thead><tr><th>Name</th><th>Position</th><th>Is Available</th></tr></thead><tbody>";
+
+        type.frames.forEach((frame, frameIndex) => {
+            html += `
+                <tr>
+                    <td>${frame.name}</td>
+                    <td>
+                        <button onclick="changeFramePosition('up', ${categoryIndex}, ${typeIndex}, ${frameIndex})">++</button>
+                        ${frame.position}
+                        <button onclick="changeFramePosition('down', ${categoryIndex}, ${typeIndex}, ${frameIndex})">--</button>
+                    </td>
+                    <td><input type="checkbox" ${frame.isAvailable ? "checked" : ""} onchange="toggleFrameAvailability(${categoryIndex}, ${typeIndex}, ${frameIndex})"></td>
+                </tr>
+            `;
+        });
+
+        type.sticker.forEach((sticker, stickerIndex) => {
+            html += `
+                <tr>
+                    <td>${sticker.name}</td>
+                    <td>
+                        <button onclick="changeStickerPosition('up', ${categoryIndex}, ${typeIndex}, ${stickerIndex})">++</button>
+                        ${sticker.position}
+                        <button onclick="changeStickerPosition('down', ${categoryIndex}, ${typeIndex}, ${stickerIndex})">--</button>
+                    </td>
+                    <td><input type="checkbox" ${sticker.isAvailable ? "checked" : ""} onchange="toggleStickerAvailability(${categoryIndex}, ${typeIndex}, ${stickerIndex})"></td>
+                </tr>
+            `;
+        });
+
+        html += "</tbody></table>";
+        document.getElementById("categoriesTable").innerHTML = html;
+    }
+
+    // Update JSON data on the backend or locally
+    function updateJson() {
+    // Convert the updated JSON data to a string
+    const updatedJson = JSON.stringify(jsonData, null, 2);
+
+    // Create a Blob with the updated JSON data
+    const blob = new Blob([updatedJson], { type: 'application/json' });
+
+    // Create an anchor element to trigger the download
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'updated_temp.json';  // Set the filename for download
+
+    // Programmatically click the anchor to trigger the download
+    a.click();
+
+    // Alert to inform the user
+    alert("Changes updated successfully! JSON file downloaded.");
+}
+
+
+    // Fetch JSON data when the page loads
+    fetchJsonData();
+
+</script>
+
+</body>
+</html>
