@@ -1,11 +1,65 @@
 import java.io.File
+import java.security.MessageDigest
 
 fun main() {
+    renameFiles()
+//    deleteDuplicateFiles()
+}
+
+fun deleteDuplicateFiles(){
+    val parentFolder = File("./Frames_1") // Change this to your folder path
+
+    if (!parentFolder.exists() || !parentFolder.isDirectory) {
+        println("Invalid folder path")
+        return
+    }
+
+    val imageHashes = mutableMapOf<String, File>() // Map to store image hashes
+
+    findAndRemoveDuplicates(parentFolder, imageHashes)
+}
+fun findAndRemoveDuplicates(folder: File, imageHashes: MutableMap<String, File>) {
+    folder.listFiles()?.forEach { file ->
+        if (file.isDirectory) {
+            // Recursively check subfolders
+            findAndRemoveDuplicates(file, imageHashes)
+        } else if (isImageFile(file)) {
+            val hash = getFileHash(file)
+            if (imageHashes.containsKey(hash)) {
+                println(">>>>>>>  Duplicate found: ${file.absolutePath} (same as ${imageHashes[hash]?.absolutePath})")
+                file.delete() // Remove the duplicate
+            } else {
+                imageHashes[hash] = file
+            }
+        }
+    }
+}
+
+// Function to check if a file is an image
+fun isImageFile(file: File): Boolean {
+    val extensions = listOf("jpg", "jpeg", "png", "gif", "bmp", "webp")
+    return file.extension.lowercase() in extensions
+}
+
+// Function to compute a file's hash (SHA-256)
+fun getFileHash(file: File): String {
+    val digest = MessageDigest.getInstance("SHA-256")
+    file.inputStream().use { input ->
+        val buffer = ByteArray(1024)
+        var bytesRead: Int
+        while (input.read(buffer).also { bytesRead = it } != -1) {
+            digest.update(buffer, 0, bytesRead)
+        }
+    }
+    return digest.digest().joinToString("") { "%02x".format(it) }
+}
+
+fun renameFiles(){
     // Specify the folder path
     val folderPath = "./celebrations/stickers"
 
     // Specify the new name prefix
-    val newNamePrefix = "birthdays_stickers"
+    val newNamePrefix = "birthdays_stickers_"
 
     // Access the folder
     val folder = File(folderPath)
