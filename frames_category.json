@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "Celebrations",
-      "position": 2,
+      "position": 1,
       "isAvailable": true,
       "types": [
         {
@@ -845,7 +845,7 @@
     },
     {
       "name": "Occasions",
-      "position": 1,
+      "position": 2,
       "isAvailable": true,
       "types": [
         {
