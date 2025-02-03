@@ -2,12 +2,12 @@
   "categories": [
     {
       "name": "Celebrations",
-      "position": 0,
+      "position": 2,
       "isAvailable": true,
       "types": [
         {
           "name": "Birthdays",
-          "position": 0,
+          "position": 2,
           "isAvailable": true,
           "frames": [
             {
@@ -216,7 +216,7 @@
         },
         {
           "name": "Weddings",
-          "position": 1,
+          "position": 3,
           "isAvailable": true,
           "frames": [
             {
@@ -425,7 +425,7 @@
         },
         {
           "name": "Anniversaries",
-          "position": 2,
+          "position": 6,
           "isAvailable": true,
           "frames": [
             {
@@ -634,7 +634,7 @@
         },
         {
           "name": "Graduation",
-          "position": 3,
+          "position": 7,
           "isAvailable": true,
           "frames": [
             {
