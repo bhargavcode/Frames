@@ -5040,7 +5040,7 @@
     {
       "name": "Nature & Scenery",
       "position": 3,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Nature",
@@ -6092,7 +6092,7 @@
     {
       "name": "Kids & Fun",
       "position": 4,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Cartoon",
@@ -6726,7 +6726,7 @@
     {
       "name": "Artistic & Abstract",
       "position": 5,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Vintage",
@@ -7569,7 +7569,7 @@
     {
       "name": "Seasonal Themes",
       "position": 6,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Spring",
@@ -8412,7 +8412,7 @@
     {
       "name": "Culture & Heritage",
       "position": 7,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Traditional",
@@ -9046,7 +9046,7 @@
     {
       "name": "Professional & Events",
       "position": 8,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Corporate",
@@ -9680,7 +9680,7 @@
     {
       "name": "Special Effects",
       "position": 9,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Glitter",
@@ -10314,7 +10314,7 @@
     {
       "name": "Spiritual & Inspirational",
       "position": 10,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Text Frames",
@@ -10948,7 +10948,7 @@
     {
       "name": "Travel & Adventure",
       "position": 11,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Travel Destinations",
@@ -11373,7 +11373,7 @@
     {
       "name": "Sports & Hobbies",
       "position": 12,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Sports",
@@ -12007,7 +12007,7 @@
     {
       "name": "Festive & Fun",
       "position": 13,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Party",
@@ -12641,7 +12641,7 @@
     {
       "name": "Patriotic & National",
       "position": 14,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "National Flags",
