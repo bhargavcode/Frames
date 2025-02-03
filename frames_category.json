@@ -3,7 +3,7 @@
     {
       "name": "Celebrations",
       "position": 0,
-      "isAvailable": false,
+      "isAvailable": true,
       "types": [
         {
           "name": "Birthdays",
