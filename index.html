@@ -186,7 +186,7 @@
                         <button onclick="changeStickerPosition('down', ${categoryIndex}, ${typeIndex}, ${stickerIndex})">-</button>
                     </td>
                     <td><input type="checkbox" ${sticker.isAvailable ? "checked" : ""} onchange="toggleStickerAvailability(${categoryIndex}, ${typeIndex}, ${stickerIndex})"></td>
-                    <td><img class="preview" src="https://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/celebrations/stickers/birthdays_stickers_0.webp" alt="${sticker.name}\nhttps://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/${ctg.toLowerCase()}/stickers/${sticker.name}"></td> <!-- Image preview -->
+                    <td><img class="preview" src="https://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/${ctg.toLowerCase()}/stickers/${sticker.name}" alt="${sticker.name}"></td> <!-- Image preview -->
                 </tr>
             `;
         });
