@@ -6,6 +6,215 @@
       "isAvailable": true,
       "types": [
         {
+  "name": "Valentines",
+  "position": 6,
+  "isAvailable": true,
+  "frames": [
+    {
+      "name": "celebrations_valentines_0.webp",
+      "position": 0,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_1.webp",
+      "position": 1,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_2.webp",
+      "position": 2,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_3.webp",
+      "position": 3,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_4.webp",
+      "position": 4,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_5.webp",
+      "position": 5,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_6.webp",
+      "position": 6,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_7.webp",
+      "position": 7,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_8.webp",
+      "position": 8,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_9.webp",
+      "position": 9,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_10.webp",
+      "position": 10,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_11.webp",
+      "position": 11,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_12.webp",
+      "position": 12,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_13.webp",
+      "position": 13,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_14.webp",
+      "position": 14,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_15.webp",
+      "position": 15,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_16.webp",
+      "position": 16,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_17.webp",
+      "position": 17,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_18.webp",
+      "position": 18,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_19.webp",
+      "position": 19,
+      "isAvailable": true
+    }
+  ],
+  "sticker": [
+    {
+      "name": "celebrations_valentines_sticker_0.webp",
+      "position": 0,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_1.webp",
+      "position": 1,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_2.webp",
+      "position": 2,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_3.webp",
+      "position": 3,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_4.webp",
+      "position": 4,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_5.webp",
+      "position": 5,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_6.webp",
+      "position": 6,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_7.webp",
+      "position": 7,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_8.webp",
+      "position": 8,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_9.webp",
+      "position": 9,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_10.webp",
+      "position": 10,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_11.webp",
+      "position": 11,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_12.webp",
+      "position": 12,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_13.webp",
+      "position": 13,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_14.webp",
+      "position": 14,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_15.webp",
+      "position": 15,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_16.webp",
+      "position": 16,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_17.webp",
+      "position": 17,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_18.webp",
+      "position": 18,
+      "isAvailable": true
+    },
+    {
+      "name": "celebrations_valentines_sticker_19.webp",
+      "position": 19,
+      "isAvailable": true
+    }
+  ]
+},
+        {
           "name": "Birthdays",
           "position": 2,
           "isAvailable": true,
