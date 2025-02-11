@@ -59,7 +59,7 @@ fun renameFiles(){
     val folderPath = "./celebrations/stickers"
 
     // Specify the new name prefix
-    val newNamePrefix = "birthdays_sticker_"
+    val newNamePrefix = "valentines_sticker_"
 
     // Access the folder
     val folder = File(folderPath)
@@ -76,19 +76,21 @@ fun renameFiles(){
                     // Get the file extension
                     val extension = file.extension
 
-                    // Construct the new file name
-                    val newFileName = "$newNamePrefix${counter}.$extension"
+                    if (file.name.startsWith("valentineday")){
+                        // Construct the new file name
+                        val newFileName = "$newNamePrefix${counter}.$extension"
 
-                    // Rename the file
-                    val renamedFile = File(folder, newFileName)
-                    val success = file.renameTo(renamedFile)
+                        // Rename the file
+                        val renamedFile = File(folder, newFileName)
+                        val success = file.renameTo(renamedFile)
 
-                    // Print the result
-                    if (success) {
-                        println("Renamed: ${file.name} -> ${renamedFile.name}")
-                        counter++
-                    } else {
-                        println("Failed to rename: ${file.name}")
+                        // Print the result
+                        if (success) {
+                            println("Renamed: ${file.name} -> ${renamedFile.name}")
+                            counter++
+                        } else {
+                            println("Failed to rename: ${file.name}")
+                        }
                     }
                 }
             }
