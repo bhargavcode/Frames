@@ -56,10 +56,10 @@ fun getFileHash(file: File): String {
 
 fun renameFiles(){
     // Specify the folder path
-    val folderPath = "./occasions/stickers"
+    val folderPath = "./occasions/ganesh_chaturthi"
 
     // Specify the new name prefix
-    val newNamePrefix = "eid_ul_fitr_sticker_"
+    val newNamePrefix = "occasions_ganesh_chaturthi_"
 
     // Access the folder
     val folder = File(folderPath)
@@ -76,7 +76,7 @@ fun renameFiles(){
                     // Get the file extension
                     val extension = file.extension
 
-                    if (file.name.startsWith("eid_sticker")){
+//                    if (file.name.startsWith("ganesh_sticker")){
                         // Construct the new file name
                         val newFileName = "$newNamePrefix${counter}.$extension"
 
@@ -91,7 +91,7 @@ fun renameFiles(){
                         } else {
                             println("Failed to rename: ${file.name}")
                         }
-                    }
+//                    }
                 }
             }
         } else {
