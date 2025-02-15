@@ -6,7 +6,7 @@ fun main() {
 //    deleteDuplicateFiles()
 }
 
-fun deleteDuplicateFiles(){
+fun deleteDuplicateFiles() {
     val parentFolder = File("./Frames_1") // Change this to your folder path
 
     if (!parentFolder.exists() || !parentFolder.isDirectory) {
@@ -18,6 +18,7 @@ fun deleteDuplicateFiles(){
 
     findAndRemoveDuplicates(parentFolder, imageHashes)
 }
+
 fun findAndRemoveDuplicates(folder: File, imageHashes: MutableMap<String, File>) {
     folder.listFiles()?.forEach { file ->
         if (file.isDirectory) {
@@ -54,12 +55,12 @@ fun getFileHash(file: File): String {
     return digest.digest().joinToString("") { "%02x".format(it) }
 }
 
-fun renameFiles(){
+fun renameFiles() {
     // Specify the folder path
-    val folderPath = "./nature_scenery/stickers"
+    val folderPath = "./nature_scenery/garden"
 
     // Specify the new name prefix
-    val newNamePrefix = "sunsets_sticker_"
+    val newNamePrefix = "nature_scenery_garden_"
 
     // Access the folder
     val folder = File(folderPath)
@@ -74,9 +75,9 @@ fun renameFiles(){
             for (file in files) {
                 if (file.isFile) {
                     // Get the file extension
-                    val extension = file.extension
-
-                    if (file.name.startsWith("sunset_sticker")){
+                    var extension = file.extension
+                    extension = if (file.extension == "PNG") "webp" else "webp"
+//                    if (file.name.startsWith("garden_sticker")) {
                         // Construct the new file name
                         val newFileName = "$newNamePrefix${counter}.$extension"
 
@@ -91,7 +92,7 @@ fun renameFiles(){
                         } else {
                             println("Failed to rename: ${file.name}")
                         }
-                    }
+//                    }
                 }
             }
         } else {
