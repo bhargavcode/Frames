@@ -8959,7 +8959,7 @@
         {
           "name": "Sunsets",
           "position": 1,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "nature_scenery_sunsets_0.webp",
@@ -10577,7 +10577,7 @@
         {
           "name": "Cartoon",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "kids_fun_cartoon_0.webp",
@@ -10786,7 +10786,7 @@
         {
           "name": "Toys",
           "position": 1,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "kids_fun_toys_0.webp",
@@ -10836,56 +10836,6 @@
             {
               "name": "kids_fun_toys_9.webp",
               "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_toys_19.webp",
-              "position": 19,
               "isAvailable": true
             }
           ],
@@ -10991,215 +10941,6 @@
               "isAvailable": true
             }
           ]
-        },
-        {
-          "name": "Baby Milestones",
-          "position": 2,
-          "isAvailable": true,
-          "frames": [
-            {
-              "name": "kids_fun_baby_milestones_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "kids_fun_baby_milestones_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ],
-          "sticker": [
-            {
-              "name": "baby_milestones_sticker_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "baby_milestones_sticker_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ]
         }
       ]
     },
@@ -11208,6 +10949,215 @@
       "position": 5,
       "isAvailable": true,
       "types": [
+        {
+          "name": "Artistic",
+          "position": 0,
+          "isAvailable": true,
+          "frames": [
+            {
+              "name": "artistic_abstract_artistic_0.webp",
+              "position": 0,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_1.webp",
+              "position": 1,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_2.webp",
+              "position": 2,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_3.webp",
+              "position": 3,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_4.webp",
+              "position": 4,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_5.webp",
+              "position": 5,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_6.webp",
+              "position": 6,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_7.webp",
+              "position": 7,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_8.webp",
+              "position": 8,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_9.webp",
+              "position": 9,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_10.webp",
+              "position": 10,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_11.webp",
+              "position": 11,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_12.webp",
+              "position": 12,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_13.webp",
+              "position": 13,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_14.webp",
+              "position": 14,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_15.webp",
+              "position": 15,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_16.webp",
+              "position": 16,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_17.webp",
+              "position": 17,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_18.webp",
+              "position": 18,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_abstract_artistic_19.webp",
+              "position": 19,
+              "isAvailable": true
+            }
+          ],
+          "sticker": [
+            {
+              "name": "artistic_sticker_0.webp",
+              "position": 0,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_1.webp",
+              "position": 1,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_2.webp",
+              "position": 2,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_3.webp",
+              "position": 3,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_4.webp",
+              "position": 4,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_5.webp",
+              "position": 5,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_6.webp",
+              "position": 6,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_7.webp",
+              "position": 7,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_8.webp",
+              "position": 8,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_9.webp",
+              "position": 9,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_10.webp",
+              "position": 10,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_11.webp",
+              "position": 11,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_12.webp",
+              "position": 12,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_13.webp",
+              "position": 13,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_14.webp",
+              "position": 14,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_15.webp",
+              "position": 15,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_16.webp",
+              "position": 16,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_17.webp",
+              "position": 17,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_18.webp",
+              "position": 18,
+              "isAvailable": true
+            },
+            {
+              "name": "artistic_sticker_19.webp",
+              "position": 19,
+              "isAvailable": true
+            }
+          ]
+        },
         {
           "name": "Vintage",
           "position": 0,
@@ -11420,7 +11370,7 @@
         {
           "name": "Modern",
           "position": 1,
-          "isAvailable": true,
+          "isAvailable": false,
           "frames": [
             {
               "name": "artistic_abstract_modern_0.webp",
@@ -12054,7 +12004,7 @@
         {
           "name": "Spring",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "seasonal_themes_spring_0.webp",
@@ -12154,6 +12104,76 @@
             {
               "name": "seasonal_themes_spring_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_spring_33.webp",
+              "position": 33,
               "isAvailable": true
             }
           ],
@@ -12263,7 +12283,7 @@
         {
           "name": "Summer",
           "position": 1,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "seasonal_themes_summer_0.webp",
@@ -12363,6 +12383,196 @@
             {
               "name": "seasonal_themes_summer_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_45.webp",
+              "position": 45,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_46.webp",
+              "position": 46,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_47.webp",
+              "position": 47,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_48.webp",
+              "position": 48,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_49.webp",
+              "position": 49,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_50.webp",
+              "position": 50,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_51.webp",
+              "position": 51,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_52.webp",
+              "position": 52,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_53.webp",
+              "position": 53,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_54.webp",
+              "position": 54,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_55.webp",
+              "position": 55,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_56.webp",
+              "position": 56,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_summer_57.webp",
+              "position": 57,
               "isAvailable": true
             }
           ],
@@ -12472,7 +12682,7 @@
         {
           "name": "Autumn",
           "position": 2,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "seasonal_themes_autumn_0.webp",
@@ -12572,6 +12782,161 @@
             {
               "name": "seasonal_themes_autumn_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_45.webp",
+              "position": 45,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_46.webp",
+              "position": 46,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_47.webp",
+              "position": 47,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_48.webp",
+              "position": 48,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_49.webp",
+              "position": 49,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_autumn_50.webp",
+              "position": 50,
               "isAvailable": true
             }
           ],
@@ -12681,7 +13046,7 @@
         {
           "name": "Winter",
           "position": 3,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "seasonal_themes_winter_0.webp",
@@ -12781,6 +13146,76 @@
             {
               "name": "seasonal_themes_winter_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "seasonal_themes_winter_33.webp",
+              "position": 33,
               "isAvailable": true
             }
           ],
@@ -12884,6 +13319,26 @@
               "name": "winter_sticker_19.webp",
               "position": 19,
               "isAvailable": true
+            },
+            {
+              "name": "winter_sticker_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "winter_sticker_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "winter_sticker_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "winter_sticker_23.webp",
+              "position": 23,
+              "isAvailable": true
             }
           ]
         }
@@ -12892,7 +13347,7 @@
     {
       "name": "Culture & Heritage",
       "position": 7,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Traditional",
@@ -13526,7 +13981,7 @@
     {
       "name": "Professional & Events",
       "position": 8,
-      "isAvailable": true,
+      "isAvailable": false,
       "types": [
         {
           "name": "Corporate",
@@ -14165,7 +14620,7 @@
         {
           "name": "Glitter",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "special_effects_glitter_0.webp",
@@ -14265,6 +14720,481 @@
             {
               "name": "special_effects_glitter_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_45.webp",
+              "position": 45,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_46.webp",
+              "position": 46,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_47.webp",
+              "position": 47,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_48.webp",
+              "position": 48,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_49.webp",
+              "position": 49,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_50.webp",
+              "position": 50,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_51.webp",
+              "position": 51,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_52.webp",
+              "position": 52,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_53.webp",
+              "position": 53,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_54.webp",
+              "position": 54,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_55.webp",
+              "position": 55,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_56.webp",
+              "position": 56,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_57.webp",
+              "position": 57,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_58.webp",
+              "position": 58,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_59.webp",
+              "position": 59,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_60.webp",
+              "position": 60,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_61.webp",
+              "position": 61,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_62.webp",
+              "position": 62,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_63.webp",
+              "position": 63,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_64.webp",
+              "position": 64,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_65.webp",
+              "position": 65,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_66.webp",
+              "position": 66,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_67.webp",
+              "position": 67,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_68.webp",
+              "position": 68,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_69.webp",
+              "position": 69,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_70.webp",
+              "position": 70,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_71.webp",
+              "position": 71,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_72.webp",
+              "position": 72,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_73.webp",
+              "position": 73,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_74.webp",
+              "position": 74,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_75.webp",
+              "position": 75,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_76.webp",
+              "position": 76,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_77.webp",
+              "position": 77,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_78.webp",
+              "position": 78,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_79.webp",
+              "position": 79,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_80.webp",
+              "position": 80,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_81.webp",
+              "position": 81,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_82.webp",
+              "position": 82,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_83.webp",
+              "position": 83,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_84.webp",
+              "position": 84,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_85.webp",
+              "position": 85,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_86.webp",
+              "position": 86,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_87.webp",
+              "position": 87,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_88.webp",
+              "position": 88,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_89.webp",
+              "position": 89,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_90.webp",
+              "position": 90,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_91.webp",
+              "position": 91,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_92.webp",
+              "position": 92,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_93.webp",
+              "position": 93,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_94.webp",
+              "position": 94,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_95.webp",
+              "position": 95,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_96.webp",
+              "position": 96,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_97.webp",
+              "position": 97,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_98.webp",
+              "position": 98,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_99.webp",
+              "position": 99,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_100.webp",
+              "position": 100,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_101.webp",
+              "position": 101,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_102.webp",
+              "position": 102,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_103.webp",
+              "position": 103,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_104.webp",
+              "position": 104,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_105.webp",
+              "position": 105,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_106.webp",
+              "position": 106,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_107.webp",
+              "position": 107,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_108.webp",
+              "position": 108,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_109.webp",
+              "position": 109,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_110.webp",
+              "position": 110,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_111.webp",
+              "position": 111,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_112.webp",
+              "position": 112,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_113.webp",
+              "position": 113,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_glitter_114.webp",
+              "position": 114,
               "isAvailable": true
             }
           ],
@@ -14368,13 +15298,298 @@
               "name": "glitter_sticker_19.webp",
               "position": 19,
               "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_45.webp",
+              "position": 45,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_46.webp",
+              "position": 46,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_47.webp",
+              "position": 47,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_48.webp",
+              "position": 48,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_49.webp",
+              "position": 49,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_50.webp",
+              "position": 50,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_51.webp",
+              "position": 51,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_52.webp",
+              "position": 52,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_53.webp",
+              "position": 53,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_54.webp",
+              "position": 54,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_55.webp",
+              "position": 55,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_56.webp",
+              "position": 56,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_57.webp",
+              "position": 57,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_58.webp",
+              "position": 58,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_59.webp",
+              "position": 59,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_60.webp",
+              "position": 60,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_61.webp",
+              "position": 61,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_62.webp",
+              "position": 62,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_63.webp",
+              "position": 63,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_64.webp",
+              "position": 64,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_65.webp",
+              "position": 65,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_66.webp",
+              "position": 66,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_67.webp",
+              "position": 67,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_68.webp",
+              "position": 68,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_69.webp",
+              "position": 69,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_70.webp",
+              "position": 70,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_71.webp",
+              "position": 71,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_72.webp",
+              "position": 72,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_73.webp",
+              "position": 73,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_74.webp",
+              "position": 74,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_75.webp",
+              "position": 75,
+              "isAvailable": true
+            },
+            {
+              "name": "glitter_sticker_138.webp",
+              "position": 138,
+              "isAvailable": true
             }
           ]
         },
         {
           "name": "Fireworks",
           "position": 1,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "special_effects_fireworks_0.webp",
@@ -14474,6 +15689,66 @@
             {
               "name": "special_effects_fireworks_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_fireworks_31.webp",
+              "position": 31,
               "isAvailable": true
             }
           ],
@@ -14577,214 +15852,524 @@
               "name": "fireworks_sticker_19.webp",
               "position": 19,
               "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "fireworks_sticker_45.webp",
+              "position": 45,
+              "isAvailable": true
             }
           ]
         },
         {
-          "name": "3D Frames",
+          "name": "Lighting",
           "position": 2,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
-              "name": "special_effects_3d_frames_0.webp",
+              "name": "special_effects_lighting_0.webp",
               "position": 0,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_1.webp",
+              "name": "special_effects_lighting_1.webp",
               "position": 1,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_2.webp",
+              "name": "special_effects_lighting_2.webp",
               "position": 2,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_3.webp",
+              "name": "special_effects_lighting_3.webp",
               "position": 3,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_4.webp",
+              "name": "special_effects_lighting_4.webp",
               "position": 4,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_5.webp",
+              "name": "special_effects_lighting_5.webp",
               "position": 5,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_6.webp",
+              "name": "special_effects_lighting_6.webp",
               "position": 6,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_7.webp",
+              "name": "special_effects_lighting_7.webp",
               "position": 7,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_8.webp",
+              "name": "special_effects_lighting_8.webp",
               "position": 8,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_9.webp",
+              "name": "special_effects_lighting_9.webp",
               "position": 9,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_10.webp",
+              "name": "special_effects_lighting_10.webp",
               "position": 10,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_11.webp",
+              "name": "special_effects_lighting_11.webp",
               "position": 11,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_12.webp",
+              "name": "special_effects_lighting_12.webp",
               "position": 12,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_13.webp",
+              "name": "special_effects_lighting_13.webp",
               "position": 13,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_14.webp",
+              "name": "special_effects_lighting_14.webp",
               "position": 14,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_15.webp",
+              "name": "special_effects_lighting_15.webp",
               "position": 15,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_16.webp",
+              "name": "special_effects_lighting_16.webp",
               "position": 16,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_17.webp",
+              "name": "special_effects_lighting_17.webp",
               "position": 17,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_18.webp",
+              "name": "special_effects_lighting_18.webp",
               "position": 18,
               "isAvailable": true
             },
             {
-              "name": "special_effects_3d_frames_19.webp",
+              "name": "special_effects_lighting_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "special_effects_lighting_25.webp",
+              "position": 25,
               "isAvailable": true
             }
           ],
           "sticker": [
             {
-              "name": "3d_frames_sticker_0.webp",
+              "name": "lighting_sticker_0.webp",
               "position": 0,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_1.webp",
+              "name": "lighting_sticker_1.webp",
               "position": 1,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_2.webp",
+              "name": "lighting_sticker_2.webp",
               "position": 2,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_3.webp",
+              "name": "lighting_sticker_3.webp",
               "position": 3,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_4.webp",
+              "name": "lighting_sticker_4.webp",
               "position": 4,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_5.webp",
+              "name": "lighting_sticker_5.webp",
               "position": 5,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_6.webp",
+              "name": "lighting_sticker_6.webp",
               "position": 6,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_7.webp",
+              "name": "lighting_sticker_7.webp",
               "position": 7,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_8.webp",
+              "name": "lighting_sticker_8.webp",
               "position": 8,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_9.webp",
+              "name": "lighting_sticker_9.webp",
               "position": 9,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_10.webp",
+              "name": "lighting_sticker_10.webp",
               "position": 10,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_11.webp",
+              "name": "lighting_sticker_11.webp",
               "position": 11,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_12.webp",
+              "name": "lighting_sticker_12.webp",
               "position": 12,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_13.webp",
+              "name": "lighting_sticker_13.webp",
               "position": 13,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_14.webp",
+              "name": "lighting_sticker_14.webp",
               "position": 14,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_15.webp",
+              "name": "lighting_sticker_15.webp",
               "position": 15,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_16.webp",
+              "name": "lighting_sticker_16.webp",
               "position": 16,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_17.webp",
+              "name": "lighting_sticker_17.webp",
               "position": 17,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_18.webp",
+              "name": "lighting_sticker_18.webp",
               "position": 18,
               "isAvailable": true
             },
             {
-              "name": "3d_frames_sticker_19.webp",
+              "name": "lighting_sticker_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_39.webp",
+              "position": 39,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_40.webp",
+              "position": 40,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_41.webp",
+              "position": 41,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_42.webp",
+              "position": 42,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_43.webp",
+              "position": 43,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_44.webp",
+              "position": 44,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_45.webp",
+              "position": 45,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_46.webp",
+              "position": 46,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_47.webp",
+              "position": 47,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_48.webp",
+              "position": 48,
+              "isAvailable": true
+            },
+            {
+              "name": "lighting_sticker_49.webp",
+              "position": 49,
               "isAvailable": true
             }
           ]
@@ -14799,7 +16384,7 @@
         {
           "name": "Text Frames",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "spiritual_inspirational_text_frames_0.webp",
@@ -14899,6 +16484,51 @@
             {
               "name": "spiritual_inspirational_text_frames_19.webp",
               "position": 19,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "spiritual_inspirational_text_frames_28.webp",
+              "position": 28,
               "isAvailable": true
             }
           ],
@@ -15006,419 +16636,125 @@
           ]
         },
         {
-          "name": "Name Frames",
-          "position": 1,
-          "isAvailable": false,
+          "name": "Yeshu",
+          "position": 0,
+          "isAvailable": true,
           "frames": [
             {
-              "name": "spiritual_inspirational_name_frames_0.webp",
+              "name": "spiritual_inspirational_yeshu_0.webp",
               "position": 0,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_1.webp",
+              "name": "spiritual_inspirational_yeshu_1.webp",
               "position": 1,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_2.webp",
+              "name": "spiritual_inspirational_yeshu_2.webp",
               "position": 2,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_3.webp",
+              "name": "spiritual_inspirational_yeshu_3.webp",
               "position": 3,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_4.webp",
+              "name": "spiritual_inspirational_yeshu_4.webp",
               "position": 4,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_5.webp",
+              "name": "spiritual_inspirational_yeshu_5.webp",
               "position": 5,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_6.webp",
+              "name": "spiritual_inspirational_yeshu_6.webp",
               "position": 6,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_7.webp",
+              "name": "spiritual_inspirational_yeshu_7.webp",
               "position": 7,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_8.webp",
+              "name": "spiritual_inspirational_yeshu_8.webp",
               "position": 8,
               "isAvailable": true
             },
             {
-              "name": "spiritual_inspirational_name_frames_9.webp",
+              "name": "spiritual_inspirational_yeshu_9.webp",
               "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_name_frames_19.webp",
-              "position": 19,
               "isAvailable": true
             }
           ],
           "sticker": [
             {
-              "name": "name_frames_sticker_0.webp",
+              "name": "yeshu_sticker_0.webp",
               "position": 0,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_1.webp",
+              "name": "yeshu_sticker_1.webp",
               "position": 1,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_2.webp",
+              "name": "yeshu_sticker_2.webp",
               "position": 2,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_3.webp",
+              "name": "yeshu_sticker_3.webp",
               "position": 3,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_4.webp",
+              "name": "yeshu_sticker_4.webp",
               "position": 4,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_5.webp",
+              "name": "yeshu_sticker_5.webp",
               "position": 5,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_6.webp",
+              "name": "yeshu_sticker_6.webp",
               "position": 6,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_7.webp",
+              "name": "yeshu_sticker_7.webp",
               "position": 7,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_8.webp",
+              "name": "yeshu_sticker_8.webp",
               "position": 8,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_9.webp",
+              "name": "yeshu_sticker_9.webp",
               "position": 9,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_10.webp",
+              "name": "yeshu_sticker_10.webp",
               "position": 10,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_11.webp",
+              "name": "yeshu_sticker_11.webp",
               "position": 11,
               "isAvailable": true
             },
             {
-              "name": "name_frames_sticker_12.webp",
+              "name": "yeshu_sticker_12.webp",
               "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "name_frames_sticker_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ]
-        },
-        {
-          "name": "Photo Collages",
-          "position": 2,
-          "isAvailable": false,
-          "frames": [
-            {
-              "name": "spiritual_inspirational_photo_collages_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "spiritual_inspirational_photo_collages_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ],
-          "sticker": [
-            {
-              "name": "photo_collages_sticker_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "photo_collages_sticker_19.webp",
-              "position": 19,
               "isAvailable": true
             }
           ]
@@ -15433,7 +16769,7 @@
         {
           "name": "Travel Destinations",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "travel_adventure_travel_destinations_0.webp",
@@ -15858,7 +17194,7 @@
         {
           "name": "Sports",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "sports_hobbies_sports_0.webp",
@@ -15959,6 +17295,106 @@
               "name": "sports_hobbies_sports_19.webp",
               "position": 19,
               "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_20.webp",
+              "position": 20,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_21.webp",
+              "position": 21,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_22.webp",
+              "position": 22,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_23.webp",
+              "position": 23,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_24.webp",
+              "position": 24,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_25.webp",
+              "position": 25,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_26.webp",
+              "position": 26,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_27.webp",
+              "position": 27,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_28.webp",
+              "position": 28,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_29.webp",
+              "position": 29,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_30.webp",
+              "position": 30,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_31.webp",
+              "position": 31,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_32.webp",
+              "position": 32,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_33.webp",
+              "position": 33,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_34.webp",
+              "position": 34,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_35.webp",
+              "position": 35,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_36.webp",
+              "position": 36,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_37.webp",
+              "position": 37,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_38.webp",
+              "position": 38,
+              "isAvailable": true
+            },
+            {
+              "name": "sports_hobbies_sports_39.webp",
+              "position": 39,
+              "isAvailable": true
             }
           ],
           "sticker": [
@@ -16006,277 +17442,13 @@
               "name": "sports_sticker_8.webp",
               "position": 8,
               "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_sticker_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ]
-        },
-        {
-          "name": "Photography",
-          "position": 1,
-          "isAvailable": false,
-          "frames": [
-            {
-              "name": "sports_hobbies_photography_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "sports_hobbies_photography_19.webp",
-              "position": 19,
-              "isAvailable": true
-            }
-          ],
-          "sticker": [
-            {
-              "name": "photography_sticker_0.webp",
-              "position": 0,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_1.webp",
-              "position": 1,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_2.webp",
-              "position": 2,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_3.webp",
-              "position": 3,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_4.webp",
-              "position": 4,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_5.webp",
-              "position": 5,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_6.webp",
-              "position": 6,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_7.webp",
-              "position": 7,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_8.webp",
-              "position": 8,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_9.webp",
-              "position": 9,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_10.webp",
-              "position": 10,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_11.webp",
-              "position": 11,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_12.webp",
-              "position": 12,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_13.webp",
-              "position": 13,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_14.webp",
-              "position": 14,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_15.webp",
-              "position": 15,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_16.webp",
-              "position": 16,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_17.webp",
-              "position": 17,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_18.webp",
-              "position": 18,
-              "isAvailable": true
-            },
-            {
-              "name": "photography_sticker_19.webp",
-              "position": 19,
-              "isAvailable": true
             }
           ]
         },
         {
           "name": "Music",
           "position": 2,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "sports_hobbies_music_0.webp",
@@ -16492,7 +17664,7 @@
         {
           "name": "Party",
           "position": 0,
-          "isAvailable": false,
+          "isAvailable": true,
           "frames": [
             {
               "name": "festive_fun_party_0.webp",
