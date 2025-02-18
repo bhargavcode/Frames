@@ -1,0 +1,554 @@
+{
+  "name": "Occasions",
+  "position": 1,
+  "isAvailable": true,
+  "types": [
+    {
+      "name": "Holi",
+      "position": 4,
+      "title": "Celebrate Holi with Vibrant Frames!",
+      "description": "Add festive colors to your photos with exclusive Holi frames! Capture joyful moments and share the spirit of Holi",
+      "bannerUrl": "https://static.vecteezy.com/system/resources/thumbnails/041/023/647/small/happy-holi-festival-for-banner-background-with-colorful-illustration-free-vector.jpg",
+      "isAvailable": true,
+      "frames": [
+        {
+          "name": "occasions_holi_0.webp",
+          "position": 0,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_1.webp",
+          "position": 1,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_2.webp",
+          "position": 2,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_3.webp",
+          "position": 3,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_4.webp",
+          "position": 4,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_5.webp",
+          "position": 5,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_6.webp",
+          "position": 6,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_7.webp",
+          "position": 7,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_8.webp",
+          "position": 8,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_9.webp",
+          "position": 9,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_10.webp",
+          "position": 10,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_11.webp",
+          "position": 11,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_12.webp",
+          "position": 12,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_13.webp",
+          "position": 13,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_14.webp",
+          "position": 14,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_15.webp",
+          "position": 15,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_16.webp",
+          "position": 16,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_17.webp",
+          "position": 17,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_18.webp",
+          "position": 18,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_19.webp",
+          "position": 19,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_20.webp",
+          "position": 20,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_21.webp",
+          "position": 21,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_22.webp",
+          "position": 22,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_23.webp",
+          "position": 23,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_24.webp",
+          "position": 24,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_25.webp",
+          "position": 25,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_26.webp",
+          "position": 26,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_27.webp",
+          "position": 27,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_28.webp",
+          "position": 28,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_29.webp",
+          "position": 29,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_30.webp",
+          "position": 30,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_31.webp",
+          "position": 31,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_32.webp",
+          "position": 32,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_33.webp",
+          "position": 33,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_34.webp",
+          "position": 34,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_35.webp",
+          "position": 35,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_36.webp",
+          "position": 36,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_37.webp",
+          "position": 37,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_38.webp",
+          "position": 38,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_39.webp",
+          "position": 39,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_40.webp",
+          "position": 40,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_41.webp",
+          "position": 41,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_42.webp",
+          "position": 42,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_43.webp",
+          "position": 43,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_44.webp",
+          "position": 44,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_45.webp",
+          "position": 45,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_46.webp",
+          "position": 46,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_47.webp",
+          "position": 47,
+          "isAvailable": true
+        },
+        {
+          "name": "occasions_holi_48.webp",
+          "position": 48,
+          "isAvailable": true
+        }
+      ],
+      "sticker": [
+        {
+          "name": "holi_sticker_0.webp",
+          "position": 0,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_1.webp",
+          "position": 1,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_2.webp",
+          "position": 2,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_3.webp",
+          "position": 3,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_4.webp",
+          "position": 4,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_5.webp",
+          "position": 5,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_6.webp",
+          "position": 6,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_7.webp",
+          "position": 7,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_8.webp",
+          "position": 8,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_9.webp",
+          "position": 9,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_10.webp",
+          "position": 10,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_11.webp",
+          "position": 11,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_12.webp",
+          "position": 12,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_13.webp",
+          "position": 13,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_14.webp",
+          "position": 14,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_15.webp",
+          "position": 15,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_16.webp",
+          "position": 16,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_17.webp",
+          "position": 17,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_18.webp",
+          "position": 18,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_19.webp",
+          "position": 19,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_20.webp",
+          "position": 20,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_21.webp",
+          "position": 21,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_22.webp",
+          "position": 22,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_23.webp",
+          "position": 23,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_24.webp",
+          "position": 24,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_25.webp",
+          "position": 25,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_26.webp",
+          "position": 26,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_27.webp",
+          "position": 27,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_28.webp",
+          "position": 28,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_29.webp",
+          "position": 29,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_30.webp",
+          "position": 30,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_31.webp",
+          "position": 31,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_32.webp",
+          "position": 32,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_33.webp",
+          "position": 33,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_34.webp",
+          "position": 34,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_35.webp",
+          "position": 35,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_36.webp",
+          "position": 36,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_37.webp",
+          "position": 37,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_38.webp",
+          "position": 38,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_39.webp",
+          "position": 39,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_40.webp",
+          "position": 40,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_41.webp",
+          "position": 41,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_42.webp",
+          "position": 42,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_43.webp",
+          "position": 43,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_44.webp",
+          "position": 44,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_45.webp",
+          "position": 45,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_46.webp",
+          "position": 46,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_47.webp",
+          "position": 47,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_48.webp",
+          "position": 48,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_49.webp",
+          "position": 49,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_50.webp",
+          "position": 50,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_51.webp",
+          "position": 51,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_52.webp",
+          "position": 52,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_53.webp",
+          "position": 53,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_54.webp",
+          "position": 54,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_55.webp",
+          "position": 55,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_56.webp",
+          "position": 56,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_57.webp",
+          "position": 57,
+          "isAvailable": true
+        }
+      ]
+    }
+  ]
+}
