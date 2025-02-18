@@ -7,7 +7,7 @@
       "types": [
         {
           "name": "Valentines",
-          "position": 1,
+          "position": 4,
           "isAvailable": true,
           "frames": [
             {
@@ -216,7 +216,7 @@
         },
         {
           "name": "Birthdays",
-          "position": 2,
+          "position": 1,
           "isAvailable": true,
           "frames": [
             {
@@ -634,8 +634,8 @@
         },
         {
           "name": "Anniversaries",
-          "position": 6,
-          "isAvailable": false,
+          "position": 2,
+          "isAvailable": true,
           "frames": [
             {
               "name": "celebrations_anniversaries_0.webp",
@@ -1059,7 +1059,7 @@
       "types": [
         {
           "name": "Diwali",
-          "position": 0,
+          "position": 6,
           "isAvailable": true,
           "frames": [
             {
@@ -1548,7 +1548,7 @@
         },
         {
           "name": "Holi",
-          "position": 1,
+          "position": 0,
           "isAvailable": true,
           "frames": [
             {
@@ -2092,7 +2092,7 @@
         },
         {
           "name": "Eid ul Fitr",
-          "position": 2,
+          "position": 3,
           "isAvailable": true,
           "frames": [
             {
@@ -2796,7 +2796,7 @@
         },
         {
           "name": "Navratri",
-          "position": 3,
+          "position": 9,
           "isAvailable": true,
           "frames": [
             {
@@ -3030,7 +3030,7 @@
         },
         {
           "name": "Dussehra",
-          "position": 4,
+          "position": 10,
           "isAvailable": true,
           "frames": [
             {
@@ -3389,7 +3389,7 @@
         },
         {
           "name": "Ganesh Chaturthi",
-          "position": 5,
+          "position": 8,
           "isAvailable": true,
           "frames": [
             {
@@ -3713,7 +3713,7 @@
         },
         {
           "name": "Christmas",
-          "position": 6,
+          "position": 12,
           "isAvailable": true,
           "frames": [
             {
@@ -4012,7 +4012,7 @@
         },
         {
           "name": "Makar Sankranti",
-          "position": 7,
+          "position": 15,
           "isAvailable": false,
           "frames": [
             {
@@ -4221,7 +4221,7 @@
         },
         {
           "name": "Raksha Bandhan",
-          "position": 8,
+          "position": 4,
           "isAvailable": false,
           "frames": [
             {
@@ -4430,7 +4430,7 @@
         },
         {
           "name": "Karva Chauth",
-          "position": 9,
+          "position": 14,
           "isAvailable": false,
           "frames": [
             {
@@ -4639,7 +4639,7 @@
         },
         {
           "name": "Baisakhi",
-          "position": 10,
+          "position": 13,
           "isAvailable": false,
           "frames": [
             {
@@ -4848,7 +4848,7 @@
         },
         {
           "name": "Onam",
-          "position": 11,
+          "position": 6,
           "isAvailable": true,
           "frames": [
             {
@@ -5387,7 +5387,7 @@
         },
         {
           "name": "Lohri",
-          "position": 12,
+          "position": 16,
           "isAvailable": true,
           "frames": [
             {
@@ -5571,7 +5571,7 @@
         },
         {
           "name": "Janmashtami",
-          "position": 13,
+          "position": 17,
           "isAvailable": false,
           "frames": [
             {
@@ -5780,7 +5780,7 @@
         },
         {
           "name": "Independence Day",
-          "position": 14,
+          "position": 5,
           "isAvailable": true,
           "frames": [
             {
@@ -5989,7 +5989,7 @@
         },
         {
           "name": "Republic Day",
-          "position": 15,
+          "position": 18,
           "isAvailable": false,
           "frames": [
             {
@@ -6200,7 +6200,7 @@
     },
     {
       "name": "Love & Relationships",
-      "position": 4,
+      "position": 3,
       "isAvailable": true,
       "types": [
         {
@@ -10571,7 +10571,7 @@
     },
     {
       "name": "Kids & Fun",
-      "position": 3,
+      "position": 8,
       "isAvailable": true,
       "types": [
         {
@@ -10946,7 +10946,7 @@
     },
     {
       "name": "Artistic & Abstract",
-      "position": 5,
+      "position": 9,
       "isAvailable": true,
       "types": [
         {
@@ -11998,7 +11998,7 @@
     },
     {
       "name": "Seasonal Themes",
-      "position": 6,
+      "position": 4,
       "isAvailable": true,
       "types": [
         {
@@ -13980,7 +13980,7 @@
     },
     {
       "name": "Professional & Events",
-      "position": 8,
+      "position": 9,
       "isAvailable": false,
       "types": [
         {
@@ -14614,7 +14614,7 @@
     },
     {
       "name": "Special Effects",
-      "position": 9,
+      "position": 5,
       "isAvailable": true,
       "types": [
         {
@@ -17658,7 +17658,7 @@
     },
     {
       "name": "Festive & Fun",
-      "position": 3,
+      "position": 6,
       "isAvailable": true,
       "types": [
         {
