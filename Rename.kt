@@ -57,10 +57,10 @@ fun getFileHash(file: File): String {
 
 fun renameFiles() {
     // Specify the folder path
-    val folderPath = "./festive_fun/stickers"
+    val folderPath = "./occasions/ganesh_chaturthi"
 
     // Specify the new name prefix
-    val newNamePrefix = "party_sticker_"
+    val newNamePrefix = "occasions_ganesh_chaturthi_"
 
     // Access the folder
     val folder = File(folderPath)

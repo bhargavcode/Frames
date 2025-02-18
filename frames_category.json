@@ -5781,7 +5781,7 @@
         {
           "name": "Independence Day",
           "position": 5,
-          "isAvailable": true,
+          "isAvailable": false,
           "frames": [
             {
               "name": "occasions_independence_day_0.webp",
