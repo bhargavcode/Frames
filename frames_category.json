@@ -221,18 +221,18 @@
           "frames": [
             {
               "name": "celebrations_birthdays_0.webp",
-              "position": 0,
-              "isAvailable": false
+              "position": 17,
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_1.webp",
               "position": 1,
-              "isAvailable": false
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_2.webp",
               "position": 2,
-              "isAvailable": false
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_3.webp",
@@ -242,27 +242,27 @@
             {
               "name": "celebrations_birthdays_4.webp",
               "position": 4,
-              "isAvailable": false
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_5.webp",
               "position": 5,
-              "isAvailable": false
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_6.webp",
-              "position": 6,
-              "isAvailable": false
+              "position": 11,
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_7.webp",
-              "position": 7,
-              "isAvailable": false
+              "position": 12,
+              "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_8.webp",
               "position": 8,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_9.webp",
@@ -271,88 +271,88 @@
             },
             {
               "name": "celebrations_birthdays_10.webp",
-              "position": 10,
-              "isAvailable": true
+              "position": 1,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_11.webp",
-              "position": 11,
+              "position": 3,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_12.webp",
               "position": 12,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_13.webp",
-              "position": 13,
+              "position": 3,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_14.webp",
-              "position": 14,
+              "position": 4,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_15.webp",
-              "position": 15,
+              "position": 2,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_16.webp",
-              "position": 16,
-              "isAvailable": true
+              "position": 0,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_17.webp",
-              "position": 17,
+              "position": 2,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_18.webp",
-              "position": 18,
-              "isAvailable": true
+              "position": 7,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_19.webp",
-              "position": 19,
+              "position": 13,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_20.webp",
-              "position": 20,
+              "position": 6,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_21.webp",
-              "position": 21,
+              "position": 5,
               "isAvailable": true
             },
             {
               "name": "celebrations_birthdays_22.webp",
-              "position": 22,
-              "isAvailable": true
+              "position": 6,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_23.webp",
-              "position": 23,
-              "isAvailable": true
+              "position": 2,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_24.webp",
-              "position": 24,
-              "isAvailable": true
+              "position": 7,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_25.webp",
-              "position": 25,
-              "isAvailable": true
+              "position": 6,
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_26.webp",
-              "position": 26,
-              "isAvailable": true
+              "position": 5,
+              "isAvailable": false
             }
           ],
           "sticker": [

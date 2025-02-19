@@ -163,7 +163,7 @@
                         <button onclick="changeFramePosition('down', ${categoryIndex}, ${typeIndex}, ${frameIndex})">-</button>
                     </td>
                     <td><input type="checkbox" ${frame.isAvailable ? "checked" : ""} onchange="toggleFrameAvailability(${categoryIndex}, ${typeIndex}, ${frameIndex})"></td>
-                    <td><img class="preview" src="https://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/${ctg.toLowerCase()}/${type.name}/${frame.name}" alt="${frame.name}"></td> <!-- Image preview -->
+                    <td><img class="preview" src="https://raw.githubusercontent.com/bhargavcode/Frames/refs/heads/master/${ctg.toLowerCase()}/${type.name.toLowerCase()}/${frame.name}" alt="${frame.name}"></td> <!-- Image preview -->
                 </tr>
             `;
         });
