@@ -242,22 +242,22 @@
             {
               "name": "celebrations_birthdays_4.webp",
               "position": 4,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_5.webp",
               "position": 5,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_6.webp",
               "position": 6,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_7.webp",
               "position": 7,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_8.webp",
