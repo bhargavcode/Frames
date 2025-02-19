@@ -222,17 +222,17 @@
             {
               "name": "celebrations_birthdays_0.webp",
               "position": 0,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_1.webp",
               "position": 1,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_2.webp",
               "position": 2,
-              "isAvailable": true
+              "isAvailable": false
             },
             {
               "name": "celebrations_birthdays_3.webp",
