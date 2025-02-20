@@ -2,495 +2,550 @@
   "name": "Occasions",
   "position": 1,
   "isAvailable": true,
-  "title": "Celebrate Dipawali with Vibrant Frames!",
+  "title": "Celebrate Holi with Vibrant Frames!",
   "description": "Add festive colors to your photos with exclusive Holi frames! Capture joyful moments and share the spirit of Holi",
-  "bannerUrl": "https://marketplace.canva.com/EAFvXSLICms/1/0/1600w/canva-black-and-gold-festive-diwali-banner-E61d2-7SSPQ.jpg",
+  "bannerUrl": "https://static.vecteezy.com/system/resources/previews/006/210/144/non_2x/happy-holi-indian-festival-banner-colorful-gulaal-powder-color-party-card-with-colourful-explosion-patterned-and-crystals-on-paper-multicolors-background-illustration-vibrant-color-template-vector.jpg",
   "types": [
     {
-      "name": "Diwali",
-      "position": 6,
+      "name": "Holi",
+      "position": 0,
       "isAvailable": true,
       "frames": [
         {
-          "name": "occasions_diwali_0.webp",
+          "name": "occasions_holi_0.webp",
           "position": 0,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_1.webp",
+          "name": "occasions_holi_1.webp",
           "position": 1,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_2.webp",
+          "name": "occasions_holi_2.webp",
           "position": 2,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_3.webp",
+          "name": "occasions_holi_3.webp",
           "position": 3,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_4.webp",
+          "name": "occasions_holi_4.webp",
           "position": 4,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_5.webp",
+          "name": "occasions_holi_5.webp",
           "position": 5,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_6.webp",
+          "name": "occasions_holi_6.webp",
           "position": 6,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_7.webp",
+          "name": "occasions_holi_7.webp",
           "position": 7,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_8.webp",
+          "name": "occasions_holi_8.webp",
           "position": 8,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_9.webp",
+          "name": "occasions_holi_9.webp",
           "position": 9,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_10.webp",
+          "name": "occasions_holi_10.webp",
           "position": 10,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_11.webp",
+          "name": "occasions_holi_11.webp",
           "position": 11,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_12.webp",
+          "name": "occasions_holi_12.webp",
           "position": 12,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_13.webp",
+          "name": "occasions_holi_13.webp",
           "position": 13,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_14.webp",
+          "name": "occasions_holi_14.webp",
           "position": 14,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_15.webp",
+          "name": "occasions_holi_15.webp",
           "position": 15,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_16.webp",
+          "name": "occasions_holi_16.webp",
           "position": 16,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_17.webp",
+          "name": "occasions_holi_17.webp",
           "position": 17,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_18.webp",
+          "name": "occasions_holi_18.webp",
           "position": 18,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_19.webp",
+          "name": "occasions_holi_19.webp",
           "position": 19,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_20.webp",
+          "name": "occasions_holi_20.webp",
           "position": 20,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_21.webp",
+          "name": "occasions_holi_21.webp",
           "position": 21,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_22.webp",
+          "name": "occasions_holi_22.webp",
           "position": 22,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_23.webp",
+          "name": "occasions_holi_23.webp",
           "position": 23,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_24.webp",
+          "name": "occasions_holi_24.webp",
           "position": 24,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_25.webp",
+          "name": "occasions_holi_25.webp",
           "position": 25,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_26.webp",
+          "name": "occasions_holi_26.webp",
           "position": 26,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_27.webp",
+          "name": "occasions_holi_27.webp",
           "position": 27,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_28.webp",
+          "name": "occasions_holi_28.webp",
           "position": 28,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_29.webp",
+          "name": "occasions_holi_29.webp",
           "position": 29,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_30.webp",
+          "name": "occasions_holi_30.webp",
           "position": 30,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_31.webp",
+          "name": "occasions_holi_31.webp",
           "position": 31,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_32.webp",
+          "name": "occasions_holi_32.webp",
           "position": 32,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_33.webp",
+          "name": "occasions_holi_33.webp",
           "position": 33,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_34.webp",
+          "name": "occasions_holi_34.webp",
           "position": 34,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_35.webp",
+          "name": "occasions_holi_35.webp",
           "position": 35,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_36.webp",
+          "name": "occasions_holi_36.webp",
           "position": 36,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_37.webp",
+          "name": "occasions_holi_37.webp",
           "position": 37,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_38.webp",
+          "name": "occasions_holi_38.webp",
           "position": 38,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_39.webp",
+          "name": "occasions_holi_39.webp",
           "position": 39,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_40.webp",
+          "name": "occasions_holi_40.webp",
           "position": 40,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_41.webp",
+          "name": "occasions_holi_41.webp",
           "position": 41,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_42.webp",
+          "name": "occasions_holi_42.webp",
           "position": 42,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_43.webp",
+          "name": "occasions_holi_43.webp",
           "position": 43,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_44.webp",
+          "name": "occasions_holi_44.webp",
           "position": 44,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_45.webp",
+          "name": "occasions_holi_45.webp",
           "position": 45,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_46.webp",
+          "name": "occasions_holi_46.webp",
           "position": 46,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_47.webp",
+          "name": "occasions_holi_47.webp",
           "position": 47,
           "isAvailable": true
         },
         {
-          "name": "occasions_diwali_48.webp",
+          "name": "occasions_holi_48.webp",
           "position": 48,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_49.webp",
-          "position": 49,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_50.webp",
-          "position": 50,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_51.webp",
-          "position": 51,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_52.webp",
-          "position": 52,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_53.webp",
-          "position": 53,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_54.webp",
-          "position": 54,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_55.webp",
-          "position": 55,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_56.webp",
-          "position": 56,
-          "isAvailable": true
-        },
-        {
-          "name": "occasions_diwali_57.webp",
-          "position": 57,
           "isAvailable": true
         }
       ],
       "sticker": [
         {
-          "name": "diwali_sticker_0.webp",
+          "name": "holi_sticker_0.webp",
           "position": 0,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_1.webp",
+          "name": "holi_sticker_1.webp",
           "position": 1,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_2.webp",
+          "name": "holi_sticker_2.webp",
           "position": 2,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_3.webp",
+          "name": "holi_sticker_3.webp",
           "position": 3,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_4.webp",
+          "name": "holi_sticker_4.webp",
           "position": 4,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_5.webp",
+          "name": "holi_sticker_5.webp",
           "position": 5,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_6.webp",
+          "name": "holi_sticker_6.webp",
           "position": 6,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_7.webp",
+          "name": "holi_sticker_7.webp",
           "position": 7,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_8.webp",
+          "name": "holi_sticker_8.webp",
           "position": 8,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_9.webp",
+          "name": "holi_sticker_9.webp",
           "position": 9,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_10.webp",
+          "name": "holi_sticker_10.webp",
           "position": 10,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_11.webp",
+          "name": "holi_sticker_11.webp",
           "position": 11,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_12.webp",
+          "name": "holi_sticker_12.webp",
           "position": 12,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_13.webp",
+          "name": "holi_sticker_13.webp",
           "position": 13,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_14.webp",
+          "name": "holi_sticker_14.webp",
           "position": 14,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_15.webp",
+          "name": "holi_sticker_15.webp",
           "position": 15,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_16.webp",
+          "name": "holi_sticker_16.webp",
           "position": 16,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_17.webp",
+          "name": "holi_sticker_17.webp",
           "position": 17,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_18.webp",
+          "name": "holi_sticker_18.webp",
           "position": 18,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_19.webp",
+          "name": "holi_sticker_19.webp",
           "position": 19,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_20.webp",
-          "position": 1,
+          "name": "holi_sticker_20.webp",
+          "position": 20,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_21.webp",
-          "position": 2,
+          "name": "holi_sticker_21.webp",
+          "position": 21,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_22.webp",
-          "position": 3,
+          "name": "holi_sticker_22.webp",
+          "position": 22,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_23.webp",
-          "position": 4,
+          "name": "holi_sticker_23.webp",
+          "position": 23,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_24.webp",
-          "position": 5,
+          "name": "holi_sticker_24.webp",
+          "position": 24,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_25.webp",
-          "position": 6,
+          "name": "holi_sticker_25.webp",
+          "position": 25,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_26.webp",
-          "position": 7,
+          "name": "holi_sticker_26.webp",
+          "position": 26,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_27.webp",
-          "position": 8,
+          "name": "holi_sticker_27.webp",
+          "position": 27,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_28.webp",
-          "position": 9,
+          "name": "holi_sticker_28.webp",
+          "position": 28,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_29.webp",
-          "position": 10,
+          "name": "holi_sticker_29.webp",
+          "position": 29,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_30.webp",
-          "position": 11,
+          "name": "holi_sticker_30.webp",
+          "position": 30,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_31.webp",
-          "position": 12,
+          "name": "holi_sticker_31.webp",
+          "position": 31,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_32.webp",
-          "position": 13,
+          "name": "holi_sticker_32.webp",
+          "position": 32,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_33.webp",
-          "position": 14,
+          "name": "holi_sticker_33.webp",
+          "position": 33,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_34.webp",
-          "position": 15,
+          "name": "holi_sticker_34.webp",
+          "position": 34,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_35.webp",
-          "position": 16,
+          "name": "holi_sticker_35.webp",
+          "position": 35,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_36.webp",
-          "position": 17,
+          "name": "holi_sticker_36.webp",
+          "position": 36,
           "isAvailable": true
         },
         {
-          "name": "diwali_sticker_37.webp",
-          "position": 18,
+          "name": "holi_sticker_37.webp",
+          "position": 37,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_38.webp",
+          "position": 38,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_39.webp",
+          "position": 39,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_40.webp",
+          "position": 40,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_41.webp",
+          "position": 41,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_42.webp",
+          "position": 42,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_43.webp",
+          "position": 43,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_44.webp",
+          "position": 44,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_45.webp",
+          "position": 45,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_46.webp",
+          "position": 46,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_47.webp",
+          "position": 47,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_48.webp",
+          "position": 48,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_49.webp",
+          "position": 49,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_50.webp",
+          "position": 50,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_51.webp",
+          "position": 51,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_52.webp",
+          "position": 52,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_53.webp",
+          "position": 53,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_54.webp",
+          "position": 54,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_55.webp",
+          "position": 55,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_56.webp",
+          "position": 56,
+          "isAvailable": true
+        },
+        {
+          "name": "holi_sticker_57.webp",
+          "position": 57,
           "isAvailable": true
         }
       ]
